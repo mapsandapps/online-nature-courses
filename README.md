@@ -18,6 +18,8 @@
 ## Meteorology
 
 * Free [Dozens of courses on MetEd, some in multiple languages](https://www.meted.ucar.edu/training_detail_courses.php?orderBy=)
+* Free [University of Reading: Come Rain or Shine: Understanding the Weather](https://www.futurelearn.com/courses/come-rain-or-shine)
+* Free-$$ [Backyard Meteorology: Harvard University](https://online-learning.harvard.edu/course/backyard-meteorology-science-weather?delta=1)
 
 
 ## Variety
